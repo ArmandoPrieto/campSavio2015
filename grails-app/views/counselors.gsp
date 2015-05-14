@@ -131,7 +131,7 @@
 	<!-- ENDS MAIN -->
 	
 		<!-- Footer -->
-		<g:render template="/common/footer" model="${}"/>
+		<g:render template="/common/footer" />
 		<!-- End Footer -->	
 	
 
