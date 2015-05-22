@@ -90,7 +90,7 @@
 			<!-- ENDS widgets -->
 			 --%>
 			
-			<div style="padding-top:55px;" id="footer-bottom">Camp Savio Site Developed by <a href="" >Armando Prieto</a>. Template designed by <a href="luiszuno.com" >luiszuno.com</a></div>
+			<div style="padding-top:105px;" id="footer-bottom">Camp Savio Site Developed by <a href="" >Armando Prieto</a>. Template designed by <a href="luiszuno.com" >luiszuno.com</a></div>
 		
 			
 		</div><!-- ENDS wrapper -->

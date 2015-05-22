@@ -98,16 +98,44 @@
 						<h4 class="heading">Important Dates</h4>
 						<ul>	
 						    <li>Every Friday we have our formation meetings from 7:00 to 9:00 PM</li>
-						  
+						  	<li>Counselors interviews on May 21st from 7:00 to 9:00 PM</li>
+						  	<li>Head Counselors Retreat from Jun 5th to Jun 7th</li>
+						  	<li>Head Counselors Retreat from Jun 5th to Jun 7th</li>
+						  	<li>Grammys on Jun 12th</li>
+						  	<li>Camp Savio from Jun 29th to  Jul 24th</li>
+						  	
 						</ul>
 					
 					</div>
 					
 					<div class="one-half last">
 						<h4 class="heading">Camp Manual</h4>
-						If you want to know how we Plan Camp Savio check this out... 
+						If you want to know how we Plan Camp Savio <br />
 						
-						<a href="${resource(dir: 'pdf', file: 'SDS_Summer_Camp.pdf')}">Click here</a> 
+						<a class="link-button green" href="${resource(dir: 'pdf', file: 'SDS_Summer_Camp.pdf')}">Click here</a> 
+					</div>
+					<div class="clearfix"></div>
+					<!-- ENDS 2 cols -->
+					
+					
+				
+										
+				</div>
+				<div class="entry-content cf">
+	        		
+	        		<!-- 2 cols -->
+					
+					<div class="one-half last">
+						<h4 class="heading">Permission Slip</h4>
+						
+						
+						<a class="link-button green" href="http://www.saintdominicsavio.org/New_Youth/wp-content/uploads/2014/06/Permission_Slip_ok.pdf">Click here</a> 
+					</div>
+					
+					<div class="one-half">
+						<h4 class="heading">-</h4>
+					
+					
 					</div>
 					<div class="clearfix"></div>
 					<!-- ENDS 2 cols -->
