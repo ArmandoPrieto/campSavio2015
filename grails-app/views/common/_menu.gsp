@@ -42,6 +42,7 @@
 					<%--<li><a href="http://luiszuno.com/blog/downloads/vintage-html-template">DOWNLOAD NOW!<i><b></b></i></a></li>
 					 --%>
 					<li class="${tag == 'donations' ? 'current-menu-item' : ''}"><g:link controller="main" action="redir" params="[page: 'donations']">DONATIONS<i><b></b></i></g:link></li>
+					<li ><a href="http://sym.saintdominicsavio.org/">Youth Ministry<i><b></b></i></a></li>
 					
 				</ul>
 				<div id="combo-holder"></div>
