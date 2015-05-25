@@ -98,7 +98,7 @@
 						<h4 class="heading">Important Dates</h4>
 						<ul>	
 						    <li>Every Friday we have our formation meetings from 7:00 to 9:00 PM</li>
-						  	<li>Counselors interviews on May 21st from 7:00 to 9:00 PM</li>
+						  	<li>Counselors interviews on May 22nd, 25th and 26th from 7:00 to 9:00 PM</li>
 						  	<li>Head Counselors Retreat from Jun 5th to Jun 7th</li>
 						  	<li>Head Counselors Retreat from Jun 5th to Jun 7th</li>
 						  	<li>Grammys on Jun 12th</li>
