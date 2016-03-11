@@ -37,7 +37,7 @@
     	class="slider-wrapper theme-default theme-project theme-home">
             
             <div id="slider">
-                <img src="${resource(dir: 'img', file: 'IMG-20150213-WA0002.jpg')}" alt="" />
+                <img src="${resource(dir: 'img', file: 'campsaviosf.jpg')}" alt="" />
                <%--  <img src="${resource(dir: 'img/dummies/slides/', file: 'boom04.jpeg')}" alt=""  />
                 <img src="${resource(dir: 'img/dummies/slides/', file: 'boom03.jpeg')}" alt="" />
             	--%>
@@ -48,7 +48,7 @@
 		
 		<!-- headline -->
 		<div class="headline">
-			Welcome to Camp Savio 2015!
+			Welcome to Camp Savio 2016!
 		</div>
 		<!-- ENDS headline -->
 		<%--

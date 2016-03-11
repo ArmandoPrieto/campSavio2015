@@ -6,7 +6,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"><!--<![endif]-->
 	<head>
 		<meta charset="utf-8">
-		<title>Camp Savio 2015</title>
+		<title>Camp Savio 2016</title>
 		<meta name="description" content="">
 		
 		<!-- Mobile viewport optimized: h5bp.com/viewport -->

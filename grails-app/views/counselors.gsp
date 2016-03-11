@@ -97,12 +97,16 @@
 					<div class="one-half">
 						<h4 class="heading">Important Dates</h4>
 						<ul>	
-						    <li>Every Friday we have our formation meetings from 7:00 to 9:00 PM</li>
-						  	<li>Counselors interviews on May 22nd, 25th and 26th from 7:00 to 9:00 PM</li>
-						  	<li>Head Counselors Retreat from Jun 5th to Jun 7th</li>
-						  	<li>Head Counselors Retreat from Jun 5th to Jun 7th</li>
-						  	<li>Grammys on Jun 12th</li>
-						  	<li>Camp Savio from Jun 29th to  Jul 24th</li>
+						    <li>First Counselor Meeting March 11th</li>
+						  	<li>No counselor meeting March 25th</li>
+						  	
+						  	<li>Every Friday we have our formation meetings from 7:00 to 9:00 PM</li>
+						  	<li>Counselors interviews on May 20th thru May27th from 7:00 to 9:00 PM</li>
+						  	<li>Head Counselors Retreat from Jun 3rd thru Jun 5th</li>
+						  	<li>Savio Grammys June 10th</li>
+						  	<li>Camp Savio Training Week from Jun 27th to Jul 1st</li>
+						  	<li>Camp Savio Counselor Commissioning Mass and potluck Jul 3rd, 5:30 pm</li>
+						  	<li>Camp Savio from Jul 4th to  Jul 29th</li>
 						  	
 						</ul>
 					

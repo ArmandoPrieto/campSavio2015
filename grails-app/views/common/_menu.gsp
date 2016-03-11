@@ -2,7 +2,7 @@
 		<div class="wrapper cf">
 			<div id="logo">
 			<h1>
-			CAMP SAVIO 2015
+			CAMP SAVIO 2016
 			
 			</h1>
 			</div>

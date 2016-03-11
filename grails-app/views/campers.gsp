@@ -34,24 +34,18 @@
 				<!-- entry-content -->	
 	        	<div class="entry-content cf">
 	        		
-	        		<h2 class="heading">Welcome to Camp Savio 2015</h2>
-	        		<p><br>
-	        		It is a pleasure for the Youth Ministry of St. Dominic Savio Parish to present Camp Savio 2015 to you.<br><br>
- 
-					In 1956 the Salesian Community started the first year of camp, at St. John Bosco High School, with the objective of giving the youth of the parish a place in which they could have fun without the dangers of the streets inside a Catholic environment.<br><br>
- 
-           			Today, after 58 years we have seen that our objective has been met and will be for a long time, and with all these years of experience, camp has been constantly improving, with more and more participants each year.<br><br>
- 
-            		All of our staff has been trained to give your child (ren) the best summer vacation they’ve had. Our Head Counselors have been certified by the Red Cross in First Aid to better care for the well-being of your child (ren). <br><br>
- 
-					We here at Camp Savio know that some families have to work late, so we offer “Extended Care,” in which trained staff will take care of your child (ren) until you are able to pick them up.<br><br>
- 
-					In this website you will find all the details and paperwork necessary for you to register your child (ren)in this fantastic summer experience.<br><br>
- 
-					Thank you very much for trusting us.<br><br>
- 
-					Yours in Christ,<br><br>
- 
+	        		<h2 class="heading">Welcome to Camp Savio 2016</h2>
+	        		<p><br />
+	        		Dear Families,<br /><br />
+					It is our pleasure as Saint Dominic Savio Parish’s Youth Ministry to present Camp Savio 2016!<br /><br />
+					In 1956 the Salesian Community started this camp at St. John Bosco High School with the intention of creating a fun, enriching Catholic environment, where the youth of the community would not only find safety, but family.<br /><br />
+					After 60 years, we have grown as a camp and have developed into more than just an environment, but an experience. Our goal to give the youth of this community something more has been met & will not stop here. We are constantly striving to grow so that we may incorporate more participants and become better every year.<br /><br />
+		            All of our staff have been trained in giving your child(ren) the best summer experience they’ve ever had with classes in child psychology & appropriate communication. Our Head Counselors have been certified by the American Heart Association & Red Cross in First Aid to better care for the well-being of your child(ren).<br /><br />
+					At Camp Savio we know that some families have to work late. Due to this we also offer “Extended Care,” for a minimal fee. Trained staff are at the care of our child(ren) until you are able to pick them up.<br /><br />
+					Inside this packet you will find all the details and paperwork necessary for you to register your child(ren) in this fantastic summer experience.<br /><br />
+					Thank you very much for trusting us with your children and we look forward to welcoming your child(ren) into our family.<br /><br />
+					Sincerely in Christ,<br />
+	        		 
  					Juan Carlos Montenegro
 	        		
 	        		</p>
@@ -86,9 +80,9 @@
 					</div>
 					
 					<div class="one-half last">
-						<h4 class="heading">Registration for Camp Savio 2015</h4>
+						<h4 class="heading">Registration for Camp Savio 2016</h4>
 	        			
-	        			<a class="link-button green" href="${resource(dir: 'pdf', file: 'Registration_15A.pdf')}" >Click here</a> 
+	        			<a class="link-button green" href="${resource(dir: 'pdf', file: 'Registration_16.pdf')}" >Click here</a> 
 	        		
 					</div>
 					<div class="clearfix"></div>
